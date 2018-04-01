@@ -1,4 +1,4 @@
-# Send stream Carriots using a Python library
+# Python class that consumes the Carriots API
 
 Class to send stream to Carriots for IoT projects using a Python library
 
