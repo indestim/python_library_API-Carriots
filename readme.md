@@ -2,6 +2,10 @@
 
 Class to send stream to Carriots for IoT projects using a Python library
 
+## Install dependences
+
+    $ pip install -r requirements.txt
+
 ## Edit values to Config file
 
     # Config.py
